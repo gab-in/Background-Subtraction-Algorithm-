@@ -1,2 +1,9 @@
-# C-lculo-do-Modelo-de-Fundo
-Algoritmo em Assembly de solução do problema do Cálculo do Modelo Fundo, trazido e problematizado pelo professor orientador Erikson Freitas de Morais. Se trata de um trabalho acadêmico desenvolvido para a matéria de Organização de Computadores 2025/1.
+# Background Subtraction Algorithm
+  The Background Subtraction is technic that consists of extracting the static background image of a video or group of images that represent movement on top of said background. In its final stage, the algorithm creates and returns a single image containing only the static background.
+  This is a academic project written entirely in Assembly, with the goal of solving the problem of Background Subtraction brought up and discussed by professor Erikson Freitas de Morais to the Computer Organization 2025/1 class.
+  It's in my interest to update this code in the future, making it more generic and easy to change, allowing for quicker and easy use on different projects. Besides that, i also intend to create a version of this same project in both C and Python.
+
+# Algoritmo de Cálculo do Modelo de Fundo
+  O Cálculo do Modelo de Fundo é uma técnica que consiste em extrair o fundo estático de um vídeo ou conjunto de imagens que apresentem movimento de qualquer coisa em cima do fundo. Ao final, o algoritmo entra uma imagem única que contém somente o fundo estático.
+  Este se trata de um trabalho acadêmico escrito integralmente em Assembly, com o objetivo de resolver o problema do Cálculo de Modelo de Fundo trazido e problematizado à turma de Organização de Computadores 2025/1 pelo professor Erikson Freitas de Morais. A escolha da lingaugem foi para possibilitar trabalhar em baixo nível, mantendo controle sobre a memória utilizada durante o processo e assim gerando um algoritmo mais eficiente. 
+  Está dentro de meus interesses atualizar este algoritmo futuramente para que ele se torne mais genérico e de fácil alteração a fim de permitir sua utilização rápida e fácil em diferentes projetos. Além disso, também pretendo criar uma versão em C e em Python do mesmo projeto.
